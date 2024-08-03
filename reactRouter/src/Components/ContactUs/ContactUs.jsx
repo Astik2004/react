@@ -60,7 +60,7 @@ export default function ContactUs() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 8957008126
                                 </div>
                             </div>
 
@@ -82,7 +82,7 @@ export default function ContactUs() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    astikyadav4gmail.com
                                 </div>
                             </div>
                         </div>
