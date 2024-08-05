@@ -25,7 +25,7 @@ import Github from './Components/Github/Github.jsx'
       },
       {
         path:"contactus",
-         element:<ContactUs/>
+         element:<ContactUs/> 
        }
      ]
    }
