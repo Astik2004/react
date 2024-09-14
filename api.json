@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "John Doe", "email": "john.doe@example.com", "age": 20, "grade": "A" },
+    { "id": 2, "name": "Jane Smith", "email": "jane.smith@example.com", "age": 22, "grade": "B" },
+    { "id": 3, "name": "Emily Johnson", "email": "emily.johnson@example.com", "age": 21, "grade": "A" },
+    { "id": 4, "name": "Michael Brown", "email": "michael.brown@example.com", "age": 23, "grade": "C" },
+    { "id": 5, "name": "Chris Lee", "email": "chris.lee@example.com", "age": 19, "grade": "B" }
+]
